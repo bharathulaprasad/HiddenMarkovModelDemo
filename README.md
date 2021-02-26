@@ -7,4 +7,5 @@ Reference: http://www.adeveloperdiary.com/data-science/machine-learning/introduc
 Here the key thing to learn is we do not have transition state possibility between state 1 and 2. probability of 0 indicates the same.
 
 
-
+Good learning resource:
+http://www.cs.tut.fi/~sgn24006/PDF/L08-HMMs.pdf
